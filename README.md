@@ -21,6 +21,6 @@
 
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: [linkedin.com/in/vishnu](www.linkedin.com/in/07vishnu)
+- 💼 LinkedIn: [linkedin.com/in/vishnu](www.linkedin.com/in/vishnutejas07)
 - 📝 Blog: [dev.to/vishnu](https://dev.to/vishnutejas)
 - 📬 Email: `07vishnuatwork@gmail.com`
